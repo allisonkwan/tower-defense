@@ -1,0 +1,52 @@
+{
+  "WOGOL": {
+    "name": "wogol",
+    "health": 300,
+    "damage": 20,
+    "speed": 230,
+    "goldVal": 50,
+    "sprite": "wogol.png",
+    "width": 16,
+    "height": 20
+  },
+  "NECROMANCER": {
+    "name": "necromancer",
+    "health": 500,
+    "damage": 40,
+    "speed": 130,
+    "goldVal": 100,
+    "sprite": "necromancer.png",
+    "width": 16,
+    "height": 20
+  },
+  "CHORT": {
+    "name": "chort",
+    "health": 700,
+    "damage": 40,
+    "goldVal": 50,
+    "speed": 150,
+    "sprite": "chort.png",
+    "width": 16,
+    "height": 24
+  },
+  "BIGDEMON": {
+    "name": " bigDemon",
+    "health": 2000,
+    "damage": 60,
+    "goldVal": 400,
+    "speed": 140,
+    "sprite": "bigDemon.png",
+    "width": 32,
+    "height": 38
+  },
+  "BOSS": {
+    "name": "boss",
+    "health": 100000,
+    "damage": 1000,
+    "speed": 150,
+    "goldVal": 1000,
+    "sprite": "wormWalkR.png",
+    "width": 90,
+    "height": 90
+  }
+}

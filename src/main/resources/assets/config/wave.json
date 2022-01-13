@@ -1,0 +1,76 @@
+{
+  "EASY": {
+    "delay": 0.2,
+    "waves": [
+      {
+        "WOGOL": 4,
+        "NECROMANCER": 3
+      },
+      {
+        "WOGOL": 5,
+        "NECROMANCER": 7
+      },
+      {
+        "NECROMANCER": 10,
+        "BIGDEMON": 4
+      },
+      {
+        "BOSS": 1
+      }
+    ]
+  },
+  "MEDIUM": {
+    "delay": 0.2,
+    "waves": [
+      {
+        "WOGOL": 2,
+        "NECROMANCER": 2,
+        "CHORT": 2
+      },
+      {
+        "WOGOL": 3,
+        "NECROMANCER": 3,
+        "CHORT": 3,
+        "BIGDEMON": 2
+      },
+      {
+        "WOGOL": 10,
+        "NECROMANCER": 8,
+        "CHORT": 8,
+        "BIGDEMON": 4
+      },
+      {
+        "BOSS": 1
+      }
+    ]
+  },
+  "HARD": {
+    "delay" : 0.2,
+    "waves": [
+      {
+        "WOGOL": 3,
+        "NECROMANCER": 3,
+        "CHORT": 3
+      },
+      {
+        "WOGOL": 4,
+        "NECROMANCER": 4,
+        "CHORT": 4,
+        "BIGDEMON": 2
+      },
+      {
+        "WOGOL": 10,
+        "NECROMANCER": 6,
+        "CHORT": 6,
+        "BIGDEMON": 2
+      },
+      {
+        "CHORT": 8,
+        "BIGDEMON": 8
+      },
+      {
+        "BOSS": 1
+      }
+    ]
+  }
+}

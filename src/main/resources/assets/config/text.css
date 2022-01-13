@@ -1,0 +1,8 @@
+.text {
+    -fx-font-family: "Arial";
+    -fx-font-size: 20;
+}
+
+#bold {
+    -fx-font-weight: bold;
+}

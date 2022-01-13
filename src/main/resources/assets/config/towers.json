@@ -1,0 +1,45 @@
+{
+  "EASY": {
+    "diff_cost": 1
+  },
+  "MEDIUM": {
+    "diff_cost": 1
+  },
+  "HARD": {
+    "diff_cost": 2
+  },
+  "BASIC": {
+    "type": "BASIC",
+    "damage": 50,
+    "fire_rate": 1,
+    "cost": 150,
+    "range": 400,
+    "description": "Shoots basic bullets!",
+    "projectile": "BULLET",
+    "upgrade_damage": 10,
+    "upgrade_cost": 50
+  },
+  "SPRAY": {
+    "type": "SPRAY",
+    "damage": 50,
+    "fire_rate": 2,
+    "cost": 200,
+    "range": 200,
+    "description": "Shoots bombs that\ngenerate shrapnel\non impact!",
+    "projectile": "BOMB",
+    "count": 3,
+    "upgrade_damage": 10,
+    "upgrade_cost": 50
+  },
+  "FREEZE": {
+    "type": "FREEZE",
+    "damage": 30,
+    "fire_rate": 3,
+    "cost": 250,
+    "range": 100,
+    "description": "Slows down the enemy!\nGives you more time to\nshoot them.",
+    "projectile": "ICE",
+    "upgrade_damage": 5,
+    "upgrade_cost": 50
+  }
+}
